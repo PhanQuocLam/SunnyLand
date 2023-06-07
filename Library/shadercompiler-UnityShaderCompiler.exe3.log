@@ -1,0 +1,128 @@
+Base path: 'D:/Unity/2019.4.22f1/Editor/Data', plugins path 'D:/Unity/2019.4.22f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=16414 outsize=9933 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=824 outsize=330 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4415 outsize=2864 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at HistogramExposure.compute(14): 'multi_compile' : unknown pragma ignored
+  api=4 insize=5700 outsize=3258 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17122 outsize=8648 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5724 outsize=6023 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1326 outsize=620 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3403 outsize=2434 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2547 outsize=889 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14460 outsize=2516 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14460 outsize=2410 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3627 outsize=4756 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13302 outsize=5041 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8345 outsize=7166 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4347 outsize=1096 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4347 outsize=1184 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11001 outsize=3130 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20794 outsize=5183 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20794 outsize=2202 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5476 outsize=5901 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21845 outsize=1046 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21845 outsize=5516 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2996 outsize=1865 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14415 outsize=2845 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6140 outsize=994 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6349 outsize=6014 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Sort.compute(8): 'multi_compile' : unknown pragma ignored
+  api=4 insize=9233 outsize=2791 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26371 outsize=14757 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26371 outsize=14937 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Deferred.compute(35): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(36): 'multi_compile' : unknown pragma ignored
+  error: 1 plat 4 at Deferred.compute(38): 'multi_compile' : unknown pragma ignored
+  error: 2 plat 4 at Packages/com.unity.render-pipelines.high-definition/Runtime/Lighting/Shadow/HDShadowAlgorithms.hlsl(27): "Undefined punctual shadow filter algorithm"
+  api=4 insize=10807 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=9527 outsize=6494 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5733 outsize=629 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33306 outsize=6078 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33306 outsize=426 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33306 outsize=1056 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33306 outsize=1198 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3617 outsize=2581 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10327 outsize=9672 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11046 outsize=2046 ok=1
